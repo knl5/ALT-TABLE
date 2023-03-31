@@ -55,7 +55,13 @@ To update the quantity of a meal, you can send a PUT request to /menu/:id with a
 example:
 json
 `{
-  "quantity": 15
+  "available": true,
+  "quantity": 3
+}`
+or 
+`{
+  "available": false,
+  "quantity": 0
 }`
 
 #### Contributing
