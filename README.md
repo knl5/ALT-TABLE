@@ -13,7 +13,7 @@ Clone the repository and navigate to the project folder:
 git clone https://github.com/knl5/ALT-TABLE.git
 
 ### Install the dependencies:
-npm install
+`npm install
 
 ### Start the server:
 Start the app: `node server.js`
